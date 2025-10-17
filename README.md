@@ -70,7 +70,10 @@ Se generan gráficos dinámicos para facilitar la exploración y la toma de deci
 
 | Detalle | Información |
 | :--- | :--- |
-| **Integrantes** | [Tu nombre aquí] |
+| **Integrantes** | Laura Alvis
+Juan Bohorquez
+Andres Niño
+Michell Sanchez|
 | **Materia** | Ciencia de Datos |
 | **Profesor** | [Oscar Vargas] |
 | **Institución** | [Universidad Santo Tomas] |
@@ -81,4 +84,4 @@ Se generan gráficos dinámicos para facilitar la exploración y la toma de deci
 
 El código fuente, los resultados estadísticos y la metodología detallada se encuentran en:
 
-* [**`nombre_de_tu_notebook.ipynb`**](nombre_de_tu_notebook.ipynb)
+* [**`Análisis_Pará.ipynb`**](Análisis_Pará.ipynb)
