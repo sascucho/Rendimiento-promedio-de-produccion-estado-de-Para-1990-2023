@@ -66,7 +66,7 @@ Se generan gráficos dinámicos para facilitar la exploración y la toma de deci
 
 ***
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 | Detalle | Información |
 | :--- | :--- |
