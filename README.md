@@ -2,7 +2,7 @@
 
 ## 📌 Introducción
 
-Este proyecto de Ciencia de Datos se enfoca en el análisis de una serie temporal de datos agrícolas para evaluar el **Rendimiento Medio** histórico y la **Volatilidad (Variabilidad)** de diferentes cultivos.
+Este proyecto realiza se enfoca en el análisis de una serie temporal de datos agrícolas para evaluar el **Rendimiento Medio** histórico y la **Volatilidad (Variabilidad)** de diferentes cultivos en el estado de Pará (Brasil), con datos obtenidos del SIDRA – IBGE (Tabla 5457).
 
 El principal desafío fue la **ingesta y limpieza de un archivo Excel** con un formato de reporte no estructurado (datos no tabulares, múltiples encabezados y caracteres especiales) para transformarlo en un *dataset* numérico apto para el análisis estadístico y la visualización interactiva.
 
