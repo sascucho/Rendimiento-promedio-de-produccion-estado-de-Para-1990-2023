@@ -70,12 +70,12 @@ Se generan gráficos dinámicos para facilitar la exploración y la toma de deci
 
 | Detalle | Información |
 | :--- | :--- |
-| **Integrantes** | Laura Alvis
-Juan Bohorquez
-Andres Niño
-Michell Sanchez|
+| **Integrantes** | Laura Alvis|
+|  | Juan Bohorquez|
+|  | Andres Niño|
+|  | Michell Sanchez|
 | **Materia** | Ciencia de Datos |
-| **Profesor** | [Oscar Vargas] |
+| **Profesor** | Oscar Vargas |
 | **Institución** | [Universidad Santo Tomas] |
 | **Año** | 2025 |
 ---
