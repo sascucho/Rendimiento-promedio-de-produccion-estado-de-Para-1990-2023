@@ -76,7 +76,7 @@ Se generan gráficos dinámicos para facilitar la exploración y la toma de deci
 |  | Michell Sanchez|
 | **Materia** | Ciencia de Datos |
 | **Profesor** | Oscar Vargas |
-| **Institución** | [Universidad Santo Tomas] |
+| **Institución** | Universidad Santo Tomas |
 | **Año** | 2025 |
 ---
 
